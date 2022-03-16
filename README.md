@@ -18,6 +18,12 @@ You can then activate the new environment with:
 source env_pylogger/bin/activate
 ```
 
+If you do not already have pip installed on your machine you will need to do so with:
+
+```
+sudo apt install python3-pip
+```
+
 After your environment is activated you can load the dependencies into this environment with:
 
 ```
